@@ -1,0 +1,9 @@
+/* Empty. Add your own CSS if you like */
+
+img{
+	display: block;
+	margin: 0 auto;
+	background: url('../img/space.jpg');
+	width: 100%;
+	max-width: 400px;
+}
