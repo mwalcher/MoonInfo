@@ -1,0 +1,5 @@
+{
+    "name": "MoonInfo",
+    "description": "MoonInfo: An Angular and Ionic App that displays information about the Moon on a given day",
+    "repository": "https://github.com/mwalcher/MoonInfo"
+}
